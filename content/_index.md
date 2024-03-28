@@ -18,17 +18,14 @@ sections:
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: cta-button-list
-    content:
+    content: Colter J. Uscola is a PhD student at the University of British Columbia, Vancouver. His award-winning research focuses on processes of identity formation and mental health and is published in Society and Mental Health.
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
+        - text: Read my latest paper Society and Mental Health
           icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
+          url: https://journals.sagepub.com/doi/full/10.1177/21568693221141927
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/colter-uscola-4474b1249/
 ---
